@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": 1585921754,
+        "tags": {
+          "name": "ZET - Ljubljanica",
+          "operator:wikidata": "Q136060",
+          "shop": "ticket",
+          "tickets:public_transport": "yes"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9378949,
+          45.7970421
+        ]
+      }
+    }
+  ]
+}
