@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.993969,
+          45.798746
+        ]
+      },
+      "properties": {
+        "name": "network_wikidata-Q136060",
+        "type": "public_transport",
+        "overpass_query": "https://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Barea%28id%3A3600214885%29-%3E.searchArea%3Bnwr%5B%22network%3Awikidata%22%3D%22Q136060%22%5D%28area.searchArea%29%3Bout%20geom%3B"
+      }
+    }
+  ]
+}
