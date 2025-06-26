@@ -9805,56 +9805,6 @@
       "type": "Feature",
       "properties": {
         "type": "way",
-        "id": 1123977975,
-        "tags": {
-          "brand": "Tisak",
-          "brand:wikidata": "Q12643627",
-          "brand:wikipedia": "hr:Tisak (tvrtka)",
-          "building": "yes",
-          "name": "Tisak",
-          "ref:vatin": "HR75917721668",
-          "shop": "kiosk"
-        },
-        "nodes": [
-          10278769506,
-          10278769507,
-          10278769508,
-          10278815809,
-          10278769506
-        ]
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              15.9645312,
-              45.8029698
-            ],
-            [
-              15.9645662,
-              45.8029571
-            ],
-            [
-              15.9645424,
-              45.8029252
-            ],
-            [
-              15.9645074,
-              45.8029379
-            ],
-            [
-              15.9645312,
-              45.8029698
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "way",
         "id": 1135954120,
         "tags": {
           "brand": "Tisak",
