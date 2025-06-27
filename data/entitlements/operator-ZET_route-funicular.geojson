@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "relation",
+        "id": 7205551,
+        "tags": {
+          "name": "Zagrebačka uspinjača",
+          "network": "ZET",
+          "operator": "ZET",
+          "public_transport:version": "2",
+          "route": "funicular",
+          "type": "route"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.9730827,
+            45.8139555
+          ],
+          [
+            15.9730506,
+            45.8144848
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "relation",
+        "id": 10279474,
+        "tags": {
+          "name": "Zagrebačka uspinjača",
+          "network": "ZET",
+          "operator": "ZET",
+          "public_transport:version": "2",
+          "route": "funicular",
+          "type": "route"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.9731275,
+            45.8139563
+          ],
+          [
+            15.9731024,
+            45.8144852
+          ]
+        ]
+      }
+    }
+  ]
+}
