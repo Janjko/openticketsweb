@@ -97,6 +97,9 @@ body {
         // Show ticket names in sidebar
         const tickets = feature.properties.ticket_names;
         const ticketList = document.getElementById('ticket-list');
+        
+        console.log("Clicked feature:", feature);Add commentMore actions
+        console.log("ticket_names:", feature.properties.ticket_names);
 
         if (Array.isArray(tickets) && tickets.length > 0) {
           ticketList.innerHTML = `
