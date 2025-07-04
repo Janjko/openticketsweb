@@ -72,33 +72,13 @@ body {
 
       map.on('click', 'entitlement-pins', (e) => {
         const feature = e.features[0];
-        const props = feature.properties;
-      
-        // Ensure array types
-        let ticketNames = props.ticket_names;
-        let aquireNames = props.aquire_names;
-      
-        if (typeof ticketNames === 'string') {
-          try { ticketNames = JSON.parse(ticketNames); } catch { ticketNames = []; }
-        }
-      
-        if (typeof aquireNames === 'string') {
-          try { aquireNames = JSON.parse(aquireNames); } catch { aquireNames = []; }
-        }
-      
-        console.log("✅ ticketNames:", ticketNames);
-        console.log("✅ aquireNames:", aquireNames);
-        
         const name = feature.properties.name;
         const shapePath = `data/entitlements/${name}.geojson`;
         const svgPath = `data/entitlements/${name}.svg`;
 
         // Show ticket names in sidebar
-        const tickets = ticketNames;
+        const tickets = feature.properties.ticket_names;
         const ticketList = document.getElementById('ticket-list');
-        
-        console.log("Clicked feature:", feature);
-        console.log("ticket_names:", ticketNames);
 
         if (Array.isArray(tickets) && tickets.length > 0) {
           ticketList.innerHTML = `
