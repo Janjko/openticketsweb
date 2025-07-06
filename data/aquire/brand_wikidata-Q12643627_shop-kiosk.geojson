@@ -5275,6 +5275,26 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "node",
+        "id": 12983582305,
+        "tags": {
+          "brand": "Tisak",
+          "brand:wikidata": "Q12643627",
+          "name": "Tisak",
+          "shop": "kiosk"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8432674,
+          45.9014296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "type": "way",
         "id": 49852658,
         "tags": {
