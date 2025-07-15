@@ -1,0 +1,382 @@
+[
+  {
+    "id": "d68cf3503decbace066f6db8d1f86563addbb9a0ef72594125e7af0758d70115",
+    "name": "Vrijednosna karta",
+    "file": "data/croatia/zagreb.yml",
+    "aquire": [
+      {
+        "type": "shop",
+        "name": "Tisak",
+        "osm_tags": [
+          {
+            "key": "shop",
+            "value": "kiosk"
+          },
+          {
+            "key": "brand:wikidata",
+            "value": "Q12643627"
+          }
+        ],
+        "id": "brand_wikidata-Q12643627_shop-kiosk"
+      },
+      {
+        "type": "ticket_shop",
+        "name": "Prodajna mjesta ZET-a",
+        "osm_tags": [
+          {
+            "key": "shop",
+            "value": "ticket"
+          },
+          {
+            "key": "operator:wikidata",
+            "value": "Q136060"
+          }
+        ],
+        "id": "operator_wikidata-Q136060_shop-ticket"
+      }
+    ],
+    "entitlements": [],
+    "type": "prepaid_card",
+    "sub_tickets": [
+      {
+        "type": "prepaid_card_ticket",
+        "price": "€0.53",
+        "entitlements": [
+          {
+            "type": "public_transport",
+            "duration": "30min",
+            "multiuser": true,
+            "traversed_zones": 1,
+            "region": "Croatia",
+            "osm_tags": [
+              {
+                "key": "network:wikidata",
+                "value": "Q136060"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "prepaid_card_ticket",
+        "price": "€0.93",
+        "entitlements": [
+          {
+            "type": "public_transport",
+            "duration": "60min",
+            "multiuser": true,
+            "traversed_zones": 1,
+            "region": "Croatia",
+            "osm_tags": [
+              {
+                "key": "network:wikidata",
+                "value": "Q136060"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "prepaid_card_ticket",
+        "price": "€1.33",
+        "entitlements": [
+          {
+            "type": "public_transport",
+            "duration": "90min",
+            "multiuser": true,
+            "traversed_zones": 2,
+            "region": "Croatia",
+            "osm_tags": [
+              {
+                "key": "network:wikidata",
+                "value": "Q136060"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "prepaid_card_ticket",
+        "price": "€3.98",
+        "entitlements": [
+          {
+            "type": "public_transport",
+            "duration": "1day",
+            "multiuser": true,
+            "traversed_zones": 1,
+            "region": "Croatia",
+            "osm_tags": [
+              {
+                "key": "network:wikidata",
+                "value": "Q136060"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "prepaid_card_ticket",
+        "price": "€0,66",
+        "entitlements": [
+          {
+            "type": "public_transport",
+            "multiuser": true,
+            "region": "Croatia",
+            "osm_tags": [
+              {
+                "key": "route",
+                "value": "funicular"
+              },
+              {
+                "key": "operator",
+                "value": "ZET"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8a58ec24e70da991f18f70b893bcef3c93574a5bdf5ed38305b79258cb370209",
+    "name": "Papirnata karta 30 minuta",
+    "file": "data/croatia/zagreb.yml",
+    "aquire": [
+      {
+        "type": "shop",
+        "name": "Tisak",
+        "osm_tags": [
+          {
+            "key": "shop",
+            "value": "kiosk"
+          },
+          {
+            "key": "brand:wikidata",
+            "value": "Q12643627"
+          }
+        ],
+        "id": "brand_wikidata-Q12643627_shop-kiosk"
+      },
+      {
+        "type": "ticket_shop",
+        "name": "Prodajna mjesta ZET-a",
+        "osm_tags": [
+          {
+            "key": "shop",
+            "value": "ticket"
+          },
+          {
+            "key": "operator:wikidata",
+            "value": "Q136060"
+          }
+        ],
+        "id": "operator_wikidata-Q136060_shop-ticket"
+      }
+    ],
+    "entitlements": [
+      {
+        "type": "public_transport",
+        "duration": "30min",
+        "traversed_zones": 1,
+        "region": "Croatia",
+        "osm_tags": [
+          {
+            "key": "network:wikidata",
+            "value": "Q136060"
+          }
+        ]
+      }
+    ],
+    "type": "paper_ticket"
+  },
+  {
+    "id": "11713b9ce7a6b1bb9f2f68bc0bd80a8dd9667bf16810a2087dd1dd7b7d23fb74",
+    "name": "Papirnata karta 60 minuta",
+    "file": "data/croatia/zagreb.yml",
+    "aquire": [
+      {
+        "type": "shop",
+        "name": "Tisak",
+        "osm_tags": [
+          {
+            "key": "shop",
+            "value": "kiosk"
+          },
+          {
+            "key": "brand:wikidata",
+            "value": "Q12643627"
+          }
+        ],
+        "id": "brand_wikidata-Q12643627_shop-kiosk"
+      },
+      {
+        "type": "ticket_shop",
+        "name": "Prodajna mjesta ZET-a",
+        "osm_tags": [
+          {
+            "key": "shop",
+            "value": "ticket"
+          },
+          {
+            "key": "operator:wikidata",
+            "value": "Q136060"
+          }
+        ],
+        "id": "operator_wikidata-Q136060_shop-ticket"
+      }
+    ],
+    "entitlements": [
+      {
+        "type": "public_transport",
+        "duration": "60min",
+        "traversed_zones": 1,
+        "region": "Croatia",
+        "osm_tags": [
+          {
+            "key": "network:wikidata",
+            "value": "Q136060"
+          }
+        ]
+      }
+    ],
+    "type": "paper_ticket"
+  },
+  {
+    "id": "65ce0e0977ee06798bd7d01757710093bda85d1ffee70ad621b30450a129fb9e",
+    "name": "Papirnata karta 90 minuta",
+    "file": "data/croatia/zagreb.yml",
+    "aquire": [
+      {
+        "type": "shop",
+        "name": "Tisak",
+        "osm_tags": [
+          {
+            "key": "shop",
+            "value": "kiosk"
+          },
+          {
+            "key": "brand:wikidata",
+            "value": "Q12643627"
+          }
+        ],
+        "id": "brand_wikidata-Q12643627_shop-kiosk"
+      },
+      {
+        "type": "ticket_shop",
+        "name": "Prodajna mjesta ZET-a",
+        "osm_tags": [
+          {
+            "key": "shop",
+            "value": "ticket"
+          },
+          {
+            "key": "operator:wikidata",
+            "value": "Q136060"
+          }
+        ],
+        "id": "operator_wikidata-Q136060_shop-ticket"
+      }
+    ],
+    "entitlements": [
+      {
+        "type": "public_transport",
+        "duration": "90min",
+        "traversed_zones": 1,
+        "region": "Croatia",
+        "osm_tags": [
+          {
+            "key": "network:wikidata",
+            "value": "Q136060"
+          }
+        ]
+      }
+    ],
+    "type": "paper_ticket"
+  },
+  {
+    "id": "9a54822d09c86d993f7a4884097f586e68811f9035372100c7bace31b7452e72",
+    "name": "Karta za uspinjaču - jednosmjerna",
+    "file": "data/croatia/zagreb.yml",
+    "aquire": [
+      {
+        "type": "shop",
+        "name": "Stanica uspinjače",
+        "osm_tags": [
+          {
+            "key": "operator",
+            "value": "ZET"
+          },
+          {
+            "key": "funicular",
+            "value": true
+          },
+          {
+            "key": "public_transport",
+            "value": "platform"
+          }
+        ],
+        "id": "funicular-True_operator-ZET_public_transport-platform"
+      }
+    ],
+    "entitlements": [
+      {
+        "type": "public_transport",
+        "region": "Croatia",
+        "osm_tags": [
+          {
+            "key": "route",
+            "value": "funicular"
+          },
+          {
+            "key": "operator",
+            "value": "ZET"
+          }
+        ]
+      }
+    ],
+    "type": "paper_ticket"
+  },
+  {
+    "id": "cd503b07c990c1455e50debad98dc654ad3d062939ef2068cf6763d0b0135572",
+    "name": "Karta za hitnu vožnju",
+    "file": "data/croatia/zagreb.yml",
+    "aquire": [
+      {
+        "type": "shop",
+        "name": "Stanica uspinjače",
+        "osm_tags": [
+          {
+            "key": "operator",
+            "value": "ZET"
+          },
+          {
+            "key": "funicular",
+            "value": true
+          },
+          {
+            "key": "public_transport",
+            "value": "platform"
+          }
+        ],
+        "id": "funicular-True_operator-ZET_public_transport-platform"
+      }
+    ],
+    "entitlements": [
+      {
+        "type": "public_transport",
+        "region": "Croatia",
+        "osm_tags": [
+          {
+            "key": "route",
+            "value": "funicular"
+          },
+          {
+            "key": "operator",
+            "value": "ZET"
+          }
+        ]
+      }
+    ],
+    "type": "paper_ticket"
+  }
+]

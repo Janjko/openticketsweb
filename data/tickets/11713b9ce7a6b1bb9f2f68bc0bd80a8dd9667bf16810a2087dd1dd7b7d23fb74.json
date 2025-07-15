@@ -1,0 +1,52 @@
+{
+  "id": "11713b9ce7a6b1bb9f2f68bc0bd80a8dd9667bf16810a2087dd1dd7b7d23fb74",
+  "name": "Papirnata karta 60 minuta",
+  "file": "data/croatia/zagreb.yml",
+  "aquire": [
+    {
+      "type": "shop",
+      "name": "Tisak",
+      "osm_tags": [
+        {
+          "key": "shop",
+          "value": "kiosk"
+        },
+        {
+          "key": "brand:wikidata",
+          "value": "Q12643627"
+        }
+      ],
+      "id": "brand_wikidata-Q12643627_shop-kiosk"
+    },
+    {
+      "type": "ticket_shop",
+      "name": "Prodajna mjesta ZET-a",
+      "osm_tags": [
+        {
+          "key": "shop",
+          "value": "ticket"
+        },
+        {
+          "key": "operator:wikidata",
+          "value": "Q136060"
+        }
+      ],
+      "id": "operator_wikidata-Q136060_shop-ticket"
+    }
+  ],
+  "entitlements": [
+    {
+      "type": "public_transport",
+      "duration": "60min",
+      "traversed_zones": 1,
+      "region": "Croatia",
+      "osm_tags": [
+        {
+          "key": "network:wikidata",
+          "value": "Q136060"
+        }
+      ]
+    }
+  ],
+  "type": "paper_ticket"
+}

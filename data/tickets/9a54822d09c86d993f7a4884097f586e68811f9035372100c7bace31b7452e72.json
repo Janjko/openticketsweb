@@ -1,0 +1,42 @@
+{
+  "id": "9a54822d09c86d993f7a4884097f586e68811f9035372100c7bace31b7452e72",
+  "name": "Karta za uspinjaču - jednosmjerna",
+  "file": "data/croatia/zagreb.yml",
+  "aquire": [
+    {
+      "type": "shop",
+      "name": "Stanica uspinjače",
+      "osm_tags": [
+        {
+          "key": "operator",
+          "value": "ZET"
+        },
+        {
+          "key": "funicular",
+          "value": true
+        },
+        {
+          "key": "public_transport",
+          "value": "platform"
+        }
+      ]
+    }
+  ],
+  "entitlements": [
+    {
+      "type": "public_transport",
+      "region": "Croatia",
+      "osm_tags": [
+        {
+          "key": "route",
+          "value": "funicular"
+        },
+        {
+          "key": "operator",
+          "value": "ZET"
+        }
+      ]
+    }
+  ],
+  "type": "paper_ticket"
+}

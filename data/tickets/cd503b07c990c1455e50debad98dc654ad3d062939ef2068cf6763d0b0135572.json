@@ -1,0 +1,43 @@
+{
+  "id": "cd503b07c990c1455e50debad98dc654ad3d062939ef2068cf6763d0b0135572",
+  "name": "Karta za hitnu vožnju",
+  "file": "data/croatia/zagreb.yml",
+  "aquire": [
+    {
+      "type": "shop",
+      "name": "Stanica uspinjače",
+      "osm_tags": [
+        {
+          "key": "operator",
+          "value": "ZET"
+        },
+        {
+          "key": "funicular",
+          "value": true
+        },
+        {
+          "key": "public_transport",
+          "value": "platform"
+        }
+      ],
+      "id": "funicular-True_operator-ZET_public_transport-platform"
+    }
+  ],
+  "entitlements": [
+    {
+      "type": "public_transport",
+      "region": "Croatia",
+      "osm_tags": [
+        {
+          "key": "route",
+          "value": "funicular"
+        },
+        {
+          "key": "operator",
+          "value": "ZET"
+        }
+      ]
+    }
+  ],
+  "type": "paper_ticket"
+}

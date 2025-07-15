@@ -1,0 +1,136 @@
+{
+  "id": "d68cf3503decbace066f6db8d1f86563addbb9a0ef72594125e7af0758d70115",
+  "name": "Vrijednosna karta",
+  "file": "data/croatia/zagreb.yml",
+  "aquire": [
+    {
+      "type": "shop",
+      "name": "Tisak",
+      "osm_tags": [
+        {
+          "key": "shop",
+          "value": "kiosk"
+        },
+        {
+          "key": "brand:wikidata",
+          "value": "Q12643627"
+        }
+      ]
+    },
+    {
+      "type": "ticket_shop",
+      "name": "Prodajna mjesta ZET-a",
+      "osm_tags": [
+        {
+          "key": "shop",
+          "value": "ticket"
+        },
+        {
+          "key": "operator:wikidata",
+          "value": "Q136060"
+        }
+      ]
+    }
+  ],
+  "entitlements": [],
+  "type": "prepaid_card",
+  "sub_tickets": [
+    {
+      "type": "prepaid_card_ticket",
+      "price": "€0.53",
+      "entitlements": [
+        {
+          "type": "public_transport",
+          "duration": "30min",
+          "multiuser": true,
+          "traversed_zones": 1,
+          "region": "Croatia",
+          "osm_tags": [
+            {
+              "key": "network:wikidata",
+              "value": "Q136060"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "prepaid_card_ticket",
+      "price": "€0.93",
+      "entitlements": [
+        {
+          "type": "public_transport",
+          "duration": "60min",
+          "multiuser": true,
+          "traversed_zones": 1,
+          "region": "Croatia",
+          "osm_tags": [
+            {
+              "key": "network:wikidata",
+              "value": "Q136060"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "prepaid_card_ticket",
+      "price": "€1.33",
+      "entitlements": [
+        {
+          "type": "public_transport",
+          "duration": "90min",
+          "multiuser": true,
+          "traversed_zones": 2,
+          "region": "Croatia",
+          "osm_tags": [
+            {
+              "key": "network:wikidata",
+              "value": "Q136060"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "prepaid_card_ticket",
+      "price": "€3.98",
+      "entitlements": [
+        {
+          "type": "public_transport",
+          "duration": "1day",
+          "multiuser": true,
+          "traversed_zones": 1,
+          "region": "Croatia",
+          "osm_tags": [
+            {
+              "key": "network:wikidata",
+              "value": "Q136060"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "prepaid_card_ticket",
+      "price": "€0,66",
+      "entitlements": [
+        {
+          "type": "public_transport",
+          "multiuser": true,
+          "region": "Croatia",
+          "osm_tags": [
+            {
+              "key": "route",
+              "value": "funicular"
+            },
+            {
+              "key": "operator",
+              "value": "ZET"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "8a58ec24e70da991f18f70b893bcef3c93574a5bdf5ed38305b79258cb370209",
+  "name": "Papirnata karta 30 minuta",
+  "file": "data/croatia/zagreb.yml",
+  "aquire": [
+    {
+      "type": "shop",
+      "name": "Tisak",
+      "osm_tags": [
+        {
+          "key": "shop",
+          "value": "kiosk"
+        },
+        {
+          "key": "brand:wikidata",
+          "value": "Q12643627"
+        }
+      ],
+      "id": "brand_wikidata-Q12643627_shop-kiosk"
+    },
+    {
+      "type": "ticket_shop",
+      "name": "Prodajna mjesta ZET-a",
+      "osm_tags": [
+        {
+          "key": "shop",
+          "value": "ticket"
+        },
+        {
+          "key": "operator:wikidata",
+          "value": "Q136060"
+        }
+      ],
+      "id": "operator_wikidata-Q136060_shop-ticket"
+    }
+  ],
+  "entitlements": [
+    {
+      "type": "public_transport",
+      "duration": "30min",
+      "traversed_zones": 1,
+      "region": "Croatia",
+      "osm_tags": [
+        {
+          "key": "network:wikidata",
+          "value": "Q136060"
+        }
+      ]
+    }
+  ],
+  "type": "paper_ticket"
+}
