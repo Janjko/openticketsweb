@@ -15,7 +15,8 @@
           "key": "brand:wikidata",
           "value": "Q12643627"
         }
-      ]
+      ],
+      "id": "brand_wikidata-Q12643627_shop-kiosk"
     },
     {
       "type": "ticket_shop",
@@ -29,7 +30,8 @@
           "key": "operator:wikidata",
           "value": "Q136060"
         }
-      ]
+      ],
+      "id": "operator_wikidata-Q136060_shop-ticket"
     }
   ],
   "entitlements": [],

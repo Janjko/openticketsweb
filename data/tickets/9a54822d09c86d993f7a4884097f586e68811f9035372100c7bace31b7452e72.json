@@ -19,7 +19,8 @@
           "key": "public_transport",
           "value": "platform"
         }
-      ]
+      ],
+      "id": "funicular-True_operator-ZET_public_transport-platform"
     }
   ],
   "entitlements": [
