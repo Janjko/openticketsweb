@@ -13,14 +13,14 @@
         },
         {
           "key": "funicular",
-          "value": true
+          "value": "yes"
         },
         {
           "key": "public_transport",
           "value": "platform"
         }
       ],
-      "id": "funicular-True_operator-ZET_public_transport-platform"
+      "id": "funicular-yes_operator-ZET_public_transport-platform"
     }
   ],
   "entitlements": [

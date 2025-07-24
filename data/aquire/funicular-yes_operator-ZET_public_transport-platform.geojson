@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": 6959470274,
+        "tags": {
+          "funicular": "yes",
+          "name": "Gornja stanica",
+          "operator": "ZET",
+          "public_transport": "platform",
+          "shelter": "yes"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9730758,
+          45.8145044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": 6959470277,
+        "tags": {
+          "funicular": "yes",
+          "name": "Donja stanica",
+          "operator": "ZET",
+          "public_transport": "platform"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9731048,
+          45.8139419
+        ]
+      }
+    }
+  ]
+}
