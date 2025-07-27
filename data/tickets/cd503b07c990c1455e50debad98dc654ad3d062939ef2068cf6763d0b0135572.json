@@ -26,6 +26,8 @@
   "entitlements": [
     {
       "type": "public_transport",
+      "multiuser": "none",
+      "name": "Uspinjača",
       "region": "Croatia",
       "osm_tags": [
         {
@@ -36,7 +38,8 @@
           "key": "operator",
           "value": "ZET"
         }
-      ]
+      ],
+      "description": "Uspinjača odmah kreće"
     }
   ],
   "type": "paper_ticket"

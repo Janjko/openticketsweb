@@ -36,8 +36,10 @@
   ],
   "entitlements": [
     {
+      "name": "ZET bus i tramvaj",
       "type": "public_transport",
       "duration": "60min",
+      "multiuser": true,
       "traversed_zones": 1,
       "region": "Croatia",
       "osm_tags": [

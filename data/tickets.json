@@ -43,6 +43,7 @@
         "price": "€0.53",
         "entitlements": [
           {
+            "name": "ZET bus i tramvaj",
             "type": "public_transport",
             "duration": "30min",
             "multiuser": true,
@@ -62,6 +63,7 @@
         "price": "€0.93",
         "entitlements": [
           {
+            "name": "ZET bus i tramvaj",
             "type": "public_transport",
             "duration": "60min",
             "multiuser": true,
@@ -81,6 +83,7 @@
         "price": "€1.33",
         "entitlements": [
           {
+            "name": "ZET bus i tramvaj",
             "type": "public_transport",
             "duration": "90min",
             "multiuser": true,
@@ -100,6 +103,7 @@
         "price": "€3.98",
         "entitlements": [
           {
+            "name": "ZET bus i tramvaj",
             "type": "public_transport",
             "duration": "1day",
             "multiuser": true,
@@ -121,6 +125,7 @@
           {
             "type": "public_transport",
             "multiuser": true,
+            "name": "Uspinjača",
             "region": "Croatia",
             "osm_tags": [
               {
@@ -175,8 +180,10 @@
     ],
     "entitlements": [
       {
+        "name": "ZET bus i tramvaj",
         "type": "public_transport",
         "duration": "30min",
+        "multiuser": true,
         "traversed_zones": 1,
         "region": "Croatia",
         "osm_tags": [
@@ -227,8 +234,10 @@
     ],
     "entitlements": [
       {
+        "name": "ZET bus i tramvaj",
         "type": "public_transport",
         "duration": "60min",
+        "multiuser": true,
         "traversed_zones": 1,
         "region": "Croatia",
         "osm_tags": [
@@ -279,8 +288,10 @@
     ],
     "entitlements": [
       {
+        "name": "ZET bus i tramvaj",
         "type": "public_transport",
         "duration": "90min",
+        "multiuser": true,
         "traversed_zones": 1,
         "region": "Croatia",
         "osm_tags": [
@@ -321,6 +332,8 @@
     "entitlements": [
       {
         "type": "public_transport",
+        "multiuser": "none",
+        "name": "Uspinjača",
         "region": "Croatia",
         "osm_tags": [
           {
@@ -364,6 +377,8 @@
     "entitlements": [
       {
         "type": "public_transport",
+        "multiuser": "none",
+        "name": "Uspinjača",
         "region": "Croatia",
         "osm_tags": [
           {
@@ -374,7 +389,8 @@
             "key": "operator",
             "value": "ZET"
           }
-        ]
+        ],
+        "description": "Uspinjača odmah kreće"
       }
     ],
     "type": "paper_ticket"

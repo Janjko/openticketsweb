@@ -42,6 +42,7 @@
       "price": "€0.53",
       "entitlements": [
         {
+          "name": "ZET bus i tramvaj",
           "type": "public_transport",
           "duration": "30min",
           "multiuser": true,
@@ -61,6 +62,7 @@
       "price": "€0.93",
       "entitlements": [
         {
+          "name": "ZET bus i tramvaj",
           "type": "public_transport",
           "duration": "60min",
           "multiuser": true,
@@ -80,6 +82,7 @@
       "price": "€1.33",
       "entitlements": [
         {
+          "name": "ZET bus i tramvaj",
           "type": "public_transport",
           "duration": "90min",
           "multiuser": true,
@@ -99,6 +102,7 @@
       "price": "€3.98",
       "entitlements": [
         {
+          "name": "ZET bus i tramvaj",
           "type": "public_transport",
           "duration": "1day",
           "multiuser": true,
@@ -120,6 +124,7 @@
         {
           "type": "public_transport",
           "multiuser": true,
+          "name": "Uspinjača",
           "region": "Croatia",
           "osm_tags": [
             {
