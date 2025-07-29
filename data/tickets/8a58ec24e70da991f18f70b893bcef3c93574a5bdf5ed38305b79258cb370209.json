@@ -1,6 +1,8 @@
 {
   "id": "8a58ec24e70da991f18f70b893bcef3c93574a5bdf5ed38305b79258cb370209",
   "name": "Papirnata karta 30 minuta",
+  "type": "paper_ticket",
+  "price": "€0.53",
   "file": "data/croatia/zagreb.yml",
   "aquire": [
     {
@@ -49,6 +51,5 @@
         }
       ]
     }
-  ],
-  "type": "paper_ticket"
+  ]
 }

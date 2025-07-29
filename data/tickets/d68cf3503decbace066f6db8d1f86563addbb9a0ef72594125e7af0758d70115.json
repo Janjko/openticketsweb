@@ -1,6 +1,8 @@
 {
   "id": "d68cf3503decbace066f6db8d1f86563addbb9a0ef72594125e7af0758d70115",
   "name": "Vrijednosna karta",
+  "type": "prepaid_card",
+  "price": "€1.33",
   "file": "data/croatia/zagreb.yml",
   "aquire": [
     {
@@ -35,7 +37,6 @@
     }
   ],
   "entitlements": [],
-  "type": "prepaid_card",
   "sub_tickets": [
     {
       "type": "prepaid_card_ticket",
