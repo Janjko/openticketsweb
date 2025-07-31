@@ -40,7 +40,7 @@
     "entitlements": [],
     "sub_tickets": [
       {
-        "type": "prepaid_card_ticket",
+        "type": "prepaid_ticket",
         "price": "€0.53",
         "entitlements": [
           {
@@ -60,7 +60,7 @@
         ]
       },
       {
-        "type": "prepaid_card_ticket",
+        "type": "prepaid_ticket",
         "price": "€0.93",
         "entitlements": [
           {
@@ -80,7 +80,7 @@
         ]
       },
       {
-        "type": "prepaid_card_ticket",
+        "type": "prepaid_ticket",
         "price": "€1.33",
         "entitlements": [
           {
@@ -100,7 +100,7 @@
         ]
       },
       {
-        "type": "prepaid_card_ticket",
+        "type": "prepaid_ticket",
         "price": "€3.98",
         "entitlements": [
           {
@@ -120,7 +120,100 @@
         ]
       },
       {
-        "type": "prepaid_card_ticket",
+        "type": "prepaid_ticket",
+        "price": "€0,66",
+        "entitlements": [
+          {
+            "type": "public_transport",
+            "multiuser": true,
+            "name": "Uspinjača",
+            "region": "Croatia",
+            "osm_tags": [
+              {
+                "key": "route",
+                "value": "funicular"
+              },
+              {
+                "key": "operator",
+                "value": "ZET"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "57dcb8c59c5fa6a8cef8b0094d3038412284332f696dd5ee379284e470461bb2",
+    "name": "Aplikacija Moj ZET",
+    "type": "mobile_phone_app",
+    "price": null,
+    "file": "data/croatia/zagreb.yml",
+    "aquire": [],
+    "entitlements": [],
+    "sub_tickets": [
+      {
+        "type": "prepaid_ticket",
+        "price": "€0.53",
+        "entitlements": [
+          {
+            "name": "ZET bus i tramvaj",
+            "type": "public_transport",
+            "duration": "30min",
+            "multiuser": true,
+            "traversed_zones": 1,
+            "region": "Croatia",
+            "osm_tags": [
+              {
+                "key": "network:wikidata",
+                "value": "Q136060"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "prepaid_ticket",
+        "price": "€0.93",
+        "entitlements": [
+          {
+            "name": "ZET bus i tramvaj",
+            "type": "public_transport",
+            "duration": "60min",
+            "multiuser": true,
+            "traversed_zones": 1,
+            "region": "Croatia",
+            "osm_tags": [
+              {
+                "key": "network:wikidata",
+                "value": "Q136060"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "prepaid_ticket",
+        "price": "€3.98",
+        "entitlements": [
+          {
+            "name": "ZET bus i tramvaj",
+            "type": "public_transport",
+            "duration": "1day",
+            "multiuser": true,
+            "traversed_zones": 1,
+            "region": "Croatia",
+            "osm_tags": [
+              {
+                "key": "network:wikidata",
+                "value": "Q136060"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "prepaid_ticket",
         "price": "€0,66",
         "entitlements": [
           {
