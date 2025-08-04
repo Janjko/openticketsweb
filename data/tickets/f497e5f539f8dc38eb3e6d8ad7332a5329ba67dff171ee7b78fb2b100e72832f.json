@@ -1,9 +1,9 @@
 {
-  "id": "65ce0e0977ee06798bd7d01757710093bda85d1ffee70ad621b30450a129fb9e",
-  "name": "Papirnata karta 90 minuta",
+  "id": "f497e5f539f8dc38eb3e6d8ad7332a5329ba67dff171ee7b78fb2b100e72832f",
+  "name": "Tjedna karta 4 zone",
   "type": "paper_ticket",
-  "price": "1.33 EUR",
-  "file": "data/croatia/zagreb.yml",
+  "price": "3.19 EUR",
+  "file": "data/croatia/rijeka.yml",
   "aquire": [
     {
       "type": "shop",
@@ -21,6 +21,21 @@
       "id": "brand_wikidata-Q12643627_shop-kiosk"
     },
     {
+      "type": "shop",
+      "name": "iNovine",
+      "osm_tags": [
+        {
+          "key": "shop",
+          "value": "kiosk"
+        },
+        {
+          "key": "brand:wikidata",
+          "value": "Q115137198"
+        }
+      ],
+      "id": "brand_wikidata-Q115137198_shop-kiosk"
+    },
+    {
       "type": "ticket_shop",
       "name": "Prodajna mjesta ZET-a",
       "osm_tags": [
@@ -30,26 +45,27 @@
         },
         {
           "key": "operator:wikidata",
-          "value": "Q136060"
+          "value": "Q12627396"
         }
       ],
-      "id": "operator_wikidata-Q136060_shop-ticket"
+      "id": "operator_wikidata-Q12627396_shop-ticket"
     }
   ],
   "entitlements": [
     {
-      "name": "ZET bus i tramvaj",
+      "name": "Autotrolej bus",
       "type": "public_transport",
-      "duration": "90min",
-      "multiuser": true,
-      "traversed_zones": 1,
+      "trips": "none",
+      "traversed_zones": 4,
       "region": "Croatia",
       "osm_tags": [
         {
           "key": "network:wikidata",
-          "value": "Q136060"
+          "value": "Q12627396"
         }
-      ]
+      ],
+      "duration": "7day",
+      "duration_stops_at_last_midnight": true
     }
   ]
 }

@@ -2,7 +2,7 @@
   "id": "cd503b07c990c1455e50debad98dc654ad3d062939ef2068cf6763d0b0135572",
   "name": "Karta za hitnu vožnju",
   "type": "paper_ticket",
-  "price": "€3.32",
+  "price": "3.32 EUR",
   "file": "data/croatia/zagreb.yml",
   "aquire": [
     {

@@ -3,7 +3,7 @@
     "id": "d68cf3503decbace066f6db8d1f86563addbb9a0ef72594125e7af0758d70115",
     "name": "Vrijednosna karta",
     "type": "prepaid_card",
-    "price": "€1.33",
+    "price": "1.33 EUR",
     "file": "data/croatia/zagreb.yml",
     "aquire": [
       {
@@ -41,7 +41,7 @@
     "sub_tickets": [
       {
         "type": "prepaid_ticket",
-        "price": "€0.53",
+        "price": "0.53 EUR",
         "entitlements": [
           {
             "name": "ZET bus i tramvaj",
@@ -61,7 +61,7 @@
       },
       {
         "type": "prepaid_ticket",
-        "price": "€0.93",
+        "price": "0.93 EUR",
         "entitlements": [
           {
             "name": "ZET bus i tramvaj",
@@ -81,7 +81,7 @@
       },
       {
         "type": "prepaid_ticket",
-        "price": "€1.33",
+        "price": "1.33 EUR",
         "entitlements": [
           {
             "name": "ZET bus i tramvaj",
@@ -101,7 +101,7 @@
       },
       {
         "type": "prepaid_ticket",
-        "price": "€3.98",
+        "price": "3.98 EUR",
         "entitlements": [
           {
             "name": "ZET bus i tramvaj",
@@ -121,7 +121,7 @@
       },
       {
         "type": "prepaid_ticket",
-        "price": "€0,66",
+        "price": "0,66 EUR",
         "entitlements": [
           {
             "type": "public_transport",
@@ -154,7 +154,7 @@
     "sub_tickets": [
       {
         "type": "prepaid_ticket",
-        "price": "€0.53",
+        "price": "0.53 EUR",
         "entitlements": [
           {
             "name": "ZET bus i tramvaj",
@@ -174,7 +174,7 @@
       },
       {
         "type": "prepaid_ticket",
-        "price": "€0.93",
+        "price": "0.93 EUR",
         "entitlements": [
           {
             "name": "ZET bus i tramvaj",
@@ -194,7 +194,7 @@
       },
       {
         "type": "prepaid_ticket",
-        "price": "€3.98",
+        "price": "3.98 EUR",
         "entitlements": [
           {
             "name": "ZET bus i tramvaj",
@@ -214,7 +214,7 @@
       },
       {
         "type": "prepaid_ticket",
-        "price": "€0,66",
+        "price": "0,66 EUR",
         "entitlements": [
           {
             "type": "public_transport",
@@ -240,7 +240,7 @@
     "id": "8a58ec24e70da991f18f70b893bcef3c93574a5bdf5ed38305b79258cb370209",
     "name": "Papirnata karta 30 minuta",
     "type": "paper_ticket",
-    "price": "€0.53",
+    "price": "0.53 EUR",
     "file": "data/croatia/zagreb.yml",
     "aquire": [
       {
@@ -295,7 +295,7 @@
     "id": "11713b9ce7a6b1bb9f2f68bc0bd80a8dd9667bf16810a2087dd1dd7b7d23fb74",
     "name": "Papirnata karta 60 minuta",
     "type": "paper_ticket",
-    "price": "€0.93",
+    "price": "0.93 EUR",
     "file": "data/croatia/zagreb.yml",
     "aquire": [
       {
@@ -350,7 +350,7 @@
     "id": "65ce0e0977ee06798bd7d01757710093bda85d1ffee70ad621b30450a129fb9e",
     "name": "Papirnata karta 90 minuta",
     "type": "paper_ticket",
-    "price": "€1.33",
+    "price": "1.33 EUR",
     "file": "data/croatia/zagreb.yml",
     "aquire": [
       {
@@ -405,7 +405,7 @@
     "id": "9a54822d09c86d993f7a4884097f586e68811f9035372100c7bace31b7452e72",
     "name": "Karta za uspinjaču - jednosmjerna",
     "type": "paper_ticket",
-    "price": "€0.66",
+    "price": "0.66 EUR",
     "file": "data/croatia/zagreb.yml",
     "aquire": [
       {
@@ -451,7 +451,7 @@
     "id": "cd503b07c990c1455e50debad98dc654ad3d062939ef2068cf6763d0b0135572",
     "name": "Karta za hitnu vožnju",
     "type": "paper_ticket",
-    "price": "€3.32",
+    "price": "3.32 EUR",
     "file": "data/croatia/zagreb.yml",
     "aquire": [
       {
@@ -491,6 +491,629 @@
           }
         ],
         "description": "Uspinjača odmah kreće"
+      }
+    ]
+  },
+  {
+    "id": "8d81d192a9510daa93775e4526c045abcf1b76dd012c0877940879592527c469",
+    "name": "Karta za poništavanje 1 zona",
+    "type": "paper_ticket",
+    "price": "2.50 EUR",
+    "file": "data/croatia/rijeka.yml",
+    "aquire": [
+      {
+        "type": "shop",
+        "name": "Tisak",
+        "osm_tags": [
+          {
+            "key": "shop",
+            "value": "kiosk"
+          },
+          {
+            "key": "brand:wikidata",
+            "value": "Q12643627"
+          }
+        ],
+        "id": "brand_wikidata-Q12643627_shop-kiosk"
+      },
+      {
+        "type": "shop",
+        "name": "iNovine",
+        "osm_tags": [
+          {
+            "key": "shop",
+            "value": "kiosk"
+          },
+          {
+            "key": "brand:wikidata",
+            "value": "Q115137198"
+          }
+        ],
+        "id": "brand_wikidata-Q115137198_shop-kiosk"
+      },
+      {
+        "type": "ticket_shop",
+        "name": "Prodajna mjesta ZET-a",
+        "osm_tags": [
+          {
+            "key": "shop",
+            "value": "ticket"
+          },
+          {
+            "key": "operator:wikidata",
+            "value": "Q12627396"
+          }
+        ],
+        "id": "operator_wikidata-Q12627396_shop-ticket"
+      }
+    ],
+    "entitlements": [
+      {
+        "name": "Autotrolej bus",
+        "type": "public_transport",
+        "trips": 1,
+        "traversed_zones": 1,
+        "region": "Croatia",
+        "osm_tags": [
+          {
+            "key": "network:wikidata",
+            "value": "Q12627396"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fd814b3cc9bb3a3a0fc33bc75ea290b08e073c26ed7a4227c91b47d3807a3a19",
+    "name": "Karta za jedno poništavanje 2 zone",
+    "type": "paper_ticket",
+    "price": "3.00 EUR",
+    "file": "data/croatia/rijeka.yml",
+    "aquire": [
+      {
+        "type": "shop",
+        "name": "Tisak",
+        "osm_tags": [
+          {
+            "key": "shop",
+            "value": "kiosk"
+          },
+          {
+            "key": "brand:wikidata",
+            "value": "Q12643627"
+          }
+        ],
+        "id": "brand_wikidata-Q12643627_shop-kiosk"
+      },
+      {
+        "type": "shop",
+        "name": "iNovine",
+        "osm_tags": [
+          {
+            "key": "shop",
+            "value": "kiosk"
+          },
+          {
+            "key": "brand:wikidata",
+            "value": "Q115137198"
+          }
+        ],
+        "id": "brand_wikidata-Q115137198_shop-kiosk"
+      },
+      {
+        "type": "ticket_shop",
+        "name": "Prodajna mjesta ZET-a",
+        "osm_tags": [
+          {
+            "key": "shop",
+            "value": "ticket"
+          },
+          {
+            "key": "operator:wikidata",
+            "value": "Q12627396"
+          }
+        ],
+        "id": "operator_wikidata-Q12627396_shop-ticket"
+      }
+    ],
+    "entitlements": [
+      {
+        "name": "Autotrolej bus",
+        "type": "public_transport",
+        "trips": 1,
+        "traversed_zones": 2,
+        "region": "Croatia",
+        "osm_tags": [
+          {
+            "key": "network:wikidata",
+            "value": "Q12627396"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e0137f300e6fef699be999c73904b0ff0091296d77b96b4986cb8b890b5fed37",
+    "name": "Karta za jedno poništavanja 3 zone",
+    "type": "paper_ticket",
+    "price": "3.50 EUR",
+    "file": "data/croatia/rijeka.yml",
+    "aquire": [
+      {
+        "type": "shop",
+        "name": "Tisak",
+        "osm_tags": [
+          {
+            "key": "shop",
+            "value": "kiosk"
+          },
+          {
+            "key": "brand:wikidata",
+            "value": "Q12643627"
+          }
+        ],
+        "id": "brand_wikidata-Q12643627_shop-kiosk"
+      },
+      {
+        "type": "shop",
+        "name": "iNovine",
+        "osm_tags": [
+          {
+            "key": "shop",
+            "value": "kiosk"
+          },
+          {
+            "key": "brand:wikidata",
+            "value": "Q115137198"
+          }
+        ],
+        "id": "brand_wikidata-Q115137198_shop-kiosk"
+      },
+      {
+        "type": "ticket_shop",
+        "name": "Prodajna mjesta ZET-a",
+        "osm_tags": [
+          {
+            "key": "shop",
+            "value": "ticket"
+          },
+          {
+            "key": "operator:wikidata",
+            "value": "Q12627396"
+          }
+        ],
+        "id": "operator_wikidata-Q12627396_shop-ticket"
+      }
+    ],
+    "entitlements": [
+      {
+        "name": "Autotrolej bus",
+        "type": "public_transport",
+        "trips": 1,
+        "traversed_zones": 3,
+        "region": "Croatia",
+        "osm_tags": [
+          {
+            "key": "network:wikidata",
+            "value": "Q12627396"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "34b28e95c19166026c81bba47d12bb17dbb9e31209bcb803e575f9d4346f456b",
+    "name": "Karta za jedno poništavanja 4 zone",
+    "type": "paper_ticket",
+    "price": "4.00 EUR",
+    "file": "data/croatia/rijeka.yml",
+    "aquire": [
+      {
+        "type": "shop",
+        "name": "Tisak",
+        "osm_tags": [
+          {
+            "key": "shop",
+            "value": "kiosk"
+          },
+          {
+            "key": "brand:wikidata",
+            "value": "Q12643627"
+          }
+        ],
+        "id": "brand_wikidata-Q12643627_shop-kiosk"
+      },
+      {
+        "type": "shop",
+        "name": "iNovine",
+        "osm_tags": [
+          {
+            "key": "shop",
+            "value": "kiosk"
+          },
+          {
+            "key": "brand:wikidata",
+            "value": "Q115137198"
+          }
+        ],
+        "id": "brand_wikidata-Q115137198_shop-kiosk"
+      },
+      {
+        "type": "ticket_shop",
+        "name": "Prodajna mjesta ZET-a",
+        "osm_tags": [
+          {
+            "key": "shop",
+            "value": "ticket"
+          },
+          {
+            "key": "operator:wikidata",
+            "value": "Q12627396"
+          }
+        ],
+        "id": "operator_wikidata-Q12627396_shop-ticket"
+      }
+    ],
+    "entitlements": [
+      {
+        "name": "Autotrolej bus",
+        "type": "public_transport",
+        "trips": 1,
+        "traversed_zones": 4,
+        "region": "Croatia",
+        "osm_tags": [
+          {
+            "key": "network:wikidata",
+            "value": "Q12627396"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1640c6c84486a80c2b142e63a02d652fe5dcd38b6244f1afa9a6b6fafb97ac2e",
+    "name": "Karta za dva poništavanja 1 zona",
+    "type": "paper_ticket",
+    "price": "2.80 EUR",
+    "file": "data/croatia/rijeka.yml",
+    "aquire": [
+      {
+        "type": "shop",
+        "name": "Tisak",
+        "osm_tags": [
+          {
+            "key": "shop",
+            "value": "kiosk"
+          },
+          {
+            "key": "brand:wikidata",
+            "value": "Q12643627"
+          }
+        ],
+        "id": "brand_wikidata-Q12643627_shop-kiosk"
+      },
+      {
+        "type": "shop",
+        "name": "iNovine",
+        "osm_tags": [
+          {
+            "key": "shop",
+            "value": "kiosk"
+          },
+          {
+            "key": "brand:wikidata",
+            "value": "Q115137198"
+          }
+        ],
+        "id": "brand_wikidata-Q115137198_shop-kiosk"
+      },
+      {
+        "type": "ticket_shop",
+        "name": "Prodajna mjesta ZET-a",
+        "osm_tags": [
+          {
+            "key": "shop",
+            "value": "ticket"
+          },
+          {
+            "key": "operator:wikidata",
+            "value": "Q12627396"
+          }
+        ],
+        "id": "operator_wikidata-Q12627396_shop-ticket"
+      }
+    ],
+    "entitlements": [
+      {
+        "name": "Autotrolej bus",
+        "type": "public_transport",
+        "trips": 2,
+        "traversed_zones": 2,
+        "region": "Croatia",
+        "osm_tags": [
+          {
+            "key": "network:wikidata",
+            "value": "Q12627396"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "54d312aa6e2f8e9c5741bdce2b45230ede696b2dffd157423a02e317ba8ef63e",
+    "name": "Karta za dva poništavanja 2 zone",
+    "type": "paper_ticket",
+    "price": "3.70 EUR",
+    "file": "data/croatia/rijeka.yml",
+    "aquire": [
+      {
+        "type": "shop",
+        "name": "Tisak",
+        "osm_tags": [
+          {
+            "key": "shop",
+            "value": "kiosk"
+          },
+          {
+            "key": "brand:wikidata",
+            "value": "Q12643627"
+          }
+        ],
+        "id": "brand_wikidata-Q12643627_shop-kiosk"
+      },
+      {
+        "type": "shop",
+        "name": "iNovine",
+        "osm_tags": [
+          {
+            "key": "shop",
+            "value": "kiosk"
+          },
+          {
+            "key": "brand:wikidata",
+            "value": "Q115137198"
+          }
+        ],
+        "id": "brand_wikidata-Q115137198_shop-kiosk"
+      },
+      {
+        "type": "ticket_shop",
+        "name": "Prodajna mjesta ZET-a",
+        "osm_tags": [
+          {
+            "key": "shop",
+            "value": "ticket"
+          },
+          {
+            "key": "operator:wikidata",
+            "value": "Q12627396"
+          }
+        ],
+        "id": "operator_wikidata-Q12627396_shop-ticket"
+      }
+    ],
+    "entitlements": [
+      {
+        "name": "Autotrolej bus",
+        "type": "public_transport",
+        "trips": 2,
+        "traversed_zones": 3,
+        "region": "Croatia",
+        "osm_tags": [
+          {
+            "key": "network:wikidata",
+            "value": "Q12627396"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dc79925cdaecf7ef9acef40d4f43b6a5d9dbeddae7051138b7856eb896ad7a48",
+    "name": "Karta za dva poništavanja 3 zone",
+    "type": "paper_ticket",
+    "price": "4.60 EUR",
+    "file": "data/croatia/rijeka.yml",
+    "aquire": [
+      {
+        "type": "shop",
+        "name": "Tisak",
+        "osm_tags": [
+          {
+            "key": "shop",
+            "value": "kiosk"
+          },
+          {
+            "key": "brand:wikidata",
+            "value": "Q12643627"
+          }
+        ],
+        "id": "brand_wikidata-Q12643627_shop-kiosk"
+      },
+      {
+        "type": "shop",
+        "name": "iNovine",
+        "osm_tags": [
+          {
+            "key": "shop",
+            "value": "kiosk"
+          },
+          {
+            "key": "brand:wikidata",
+            "value": "Q115137198"
+          }
+        ],
+        "id": "brand_wikidata-Q115137198_shop-kiosk"
+      },
+      {
+        "type": "ticket_shop",
+        "name": "Prodajna mjesta ZET-a",
+        "osm_tags": [
+          {
+            "key": "shop",
+            "value": "ticket"
+          },
+          {
+            "key": "operator:wikidata",
+            "value": "Q12627396"
+          }
+        ],
+        "id": "operator_wikidata-Q12627396_shop-ticket"
+      }
+    ],
+    "entitlements": [
+      {
+        "name": "Autotrolej bus",
+        "type": "public_transport",
+        "trips": 2,
+        "traversed_zones": 3,
+        "region": "Croatia",
+        "osm_tags": [
+          {
+            "key": "network:wikidata",
+            "value": "Q12627396"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c0e2b50e9d2b13491ca0ef5261831fdaa78fcab834b43f7b9f35261ca8264e5e",
+    "name": "Karta za dva poništavanja 4 zone",
+    "type": "paper_ticket",
+    "price": "5.20 EUR",
+    "file": "data/croatia/rijeka.yml",
+    "aquire": [
+      {
+        "type": "shop",
+        "name": "Tisak",
+        "osm_tags": [
+          {
+            "key": "shop",
+            "value": "kiosk"
+          },
+          {
+            "key": "brand:wikidata",
+            "value": "Q12643627"
+          }
+        ],
+        "id": "brand_wikidata-Q12643627_shop-kiosk"
+      },
+      {
+        "type": "shop",
+        "name": "iNovine",
+        "osm_tags": [
+          {
+            "key": "shop",
+            "value": "kiosk"
+          },
+          {
+            "key": "brand:wikidata",
+            "value": "Q115137198"
+          }
+        ],
+        "id": "brand_wikidata-Q115137198_shop-kiosk"
+      },
+      {
+        "type": "ticket_shop",
+        "name": "Prodajna mjesta ZET-a",
+        "osm_tags": [
+          {
+            "key": "shop",
+            "value": "ticket"
+          },
+          {
+            "key": "operator:wikidata",
+            "value": "Q12627396"
+          }
+        ],
+        "id": "operator_wikidata-Q12627396_shop-ticket"
+      }
+    ],
+    "entitlements": [
+      {
+        "name": "Autotrolej bus",
+        "type": "public_transport",
+        "trips": 2,
+        "traversed_zones": 4,
+        "region": "Croatia",
+        "osm_tags": [
+          {
+            "key": "network:wikidata",
+            "value": "Q12627396"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "f497e5f539f8dc38eb3e6d8ad7332a5329ba67dff171ee7b78fb2b100e72832f",
+    "name": "Tjedna karta 4 zone",
+    "type": "paper_ticket",
+    "price": "3.19 EUR",
+    "file": "data/croatia/rijeka.yml",
+    "aquire": [
+      {
+        "type": "shop",
+        "name": "Tisak",
+        "osm_tags": [
+          {
+            "key": "shop",
+            "value": "kiosk"
+          },
+          {
+            "key": "brand:wikidata",
+            "value": "Q12643627"
+          }
+        ],
+        "id": "brand_wikidata-Q12643627_shop-kiosk"
+      },
+      {
+        "type": "shop",
+        "name": "iNovine",
+        "osm_tags": [
+          {
+            "key": "shop",
+            "value": "kiosk"
+          },
+          {
+            "key": "brand:wikidata",
+            "value": "Q115137198"
+          }
+        ],
+        "id": "brand_wikidata-Q115137198_shop-kiosk"
+      },
+      {
+        "type": "ticket_shop",
+        "name": "Prodajna mjesta ZET-a",
+        "osm_tags": [
+          {
+            "key": "shop",
+            "value": "ticket"
+          },
+          {
+            "key": "operator:wikidata",
+            "value": "Q12627396"
+          }
+        ],
+        "id": "operator_wikidata-Q12627396_shop-ticket"
+      }
+    ],
+    "entitlements": [
+      {
+        "name": "Autotrolej bus",
+        "type": "public_transport",
+        "trips": "none",
+        "traversed_zones": 4,
+        "region": "Croatia",
+        "osm_tags": [
+          {
+            "key": "network:wikidata",
+            "value": "Q12627396"
+          }
+        ],
+        "duration": "7day",
+        "duration_stops_at_last_midnight": true
       }
     ]
   }

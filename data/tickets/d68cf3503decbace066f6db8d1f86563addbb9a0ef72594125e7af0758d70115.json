@@ -2,7 +2,7 @@
   "id": "d68cf3503decbace066f6db8d1f86563addbb9a0ef72594125e7af0758d70115",
   "name": "Vrijednosna karta",
   "type": "prepaid_card",
-  "price": "€1.33",
+  "price": "1.33 EUR",
   "file": "data/croatia/zagreb.yml",
   "aquire": [
     {
@@ -40,7 +40,7 @@
   "sub_tickets": [
     {
       "type": "prepaid_ticket",
-      "price": "€0.53",
+      "price": "0.53 EUR",
       "entitlements": [
         {
           "name": "ZET bus i tramvaj",
@@ -60,7 +60,7 @@
     },
     {
       "type": "prepaid_ticket",
-      "price": "€0.93",
+      "price": "0.93 EUR",
       "entitlements": [
         {
           "name": "ZET bus i tramvaj",
@@ -80,7 +80,7 @@
     },
     {
       "type": "prepaid_ticket",
-      "price": "€1.33",
+      "price": "1.33 EUR",
       "entitlements": [
         {
           "name": "ZET bus i tramvaj",
@@ -100,7 +100,7 @@
     },
     {
       "type": "prepaid_ticket",
-      "price": "€3.98",
+      "price": "3.98 EUR",
       "entitlements": [
         {
           "name": "ZET bus i tramvaj",
@@ -120,7 +120,7 @@
     },
     {
       "type": "prepaid_ticket",
-      "price": "€0,66",
+      "price": "0,66 EUR",
       "entitlements": [
         {
           "type": "public_transport",

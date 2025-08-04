@@ -1,0 +1,1238 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": 1278035640,
+        "tags": {
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "check_date": "2024-05-20",
+          "name": "iNovine",
+          "shop": "kiosk"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0011592,
+          45.7915588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": 1410042608,
+        "tags": {
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "check_date": "2024-12-20",
+          "name": "iNovine",
+          "opening_hours": "Mo-Fr 06:00-13:30; Sa-Su off",
+          "operator": "iNovine",
+          "ref": "651",
+          "shop": "kiosk",
+          "wheelchair": "limited"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.960365,
+          45.7969003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": 1514371302,
+        "tags": {
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "brand:wikipedia": "hr:Tisak (tvrtka)",
+          "check_date": "2024-09-17",
+          "name": "iNovine",
+          "shop": "kiosk",
+          "wheelchair": "yes"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9912913,
+          45.8140103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": 1879874537,
+        "tags": {
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "name": "iNovine",
+          "shop": "kiosk"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9837738,
+          45.8193865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": 1902480327,
+        "tags": {
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "name": "iNovine",
+          "operator": "iNovine",
+          "shop": "kiosk"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0201955,
+          45.8031963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": 1969688813,
+        "tags": {
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "name": "iNovine",
+          "operator": "iNovine",
+          "shop": "kiosk"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0195214,
+          45.8055584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": 2401908130,
+        "tags": {
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "name": "iNovine",
+          "shop": "kiosk"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3654558,
+          45.4953153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": 2416411835,
+        "tags": {
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "check_date": "2023-08-30",
+          "name": "iNovine",
+          "shop": "kiosk"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.443937,
+          43.9376346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": 2416411871,
+        "tags": {
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "name": "iNovine",
+          "shop": "kiosk"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4449946,
+          43.9388946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": 2780143708,
+        "tags": {
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "name": "iNovine",
+          "shop": "kiosk"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8493847,
+          44.8660934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": 3420055393,
+        "tags": {
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "name": "iNovine",
+          "shop": "kiosk"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9370963,
+          45.2399481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": 3772687121,
+        "tags": {
+          "addr:city": "Rijeka",
+          "addr:postcode": "51000",
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "name": "iNovine",
+          "shop": "kiosk"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4387185,
+          45.3332559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": 4549057069,
+        "tags": {
+          "addr:housenumber": "16",
+          "addr:street": "Barčev trg",
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "check_date": "2022-10-16",
+          "name": "iNovine",
+          "shop": "kiosk",
+          "wheelchair": "yes"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9962339,
+          45.7771384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": 5172110477,
+        "tags": {
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "check_date": "2024-03-26",
+          "name": "iNovine",
+          "opening_hours": "Mo-Fr 06:00-14:00; Sa-Su off",
+          "shop": "kiosk"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9839767,
+          45.8079735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": 6486480465,
+        "tags": {
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "name": "iNovine",
+          "shop": "kiosk"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4401079,
+          46.3890462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": 6624437178,
+        "tags": {
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "level": "0",
+          "name": "iNovine",
+          "shop": "kiosk",
+          "wheelchair": "yes"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9786908,
+          45.804784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": 6994464243,
+        "tags": {
+          "addr:street": "Bijenička cesta",
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "name": "iNovine",
+          "shop": "kiosk"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9848577,
+          45.8245844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": 8047263083,
+        "tags": {
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "name": "iNovine",
+          "shop": "kiosk"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6633671,
+          45.1477137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": 8279872462,
+        "tags": {
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "check_date": "2024-04-16",
+          "name": "iNovine",
+          "shop": "kiosk"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9789913,
+          45.8121731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": 10043205054,
+        "tags": {
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "check_date": "2022-09-21",
+          "name": "iNovine",
+          "shop": "kiosk"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9954848,
+          45.7960108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": 10768893282,
+        "tags": {
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "name": "iNovine",
+          "shop": "kiosk"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.506094,
+          45.3357007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": 11630705665,
+        "tags": {
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "check_date": "2024-02-16",
+          "level": "1",
+          "name": "iNovine",
+          "shop": "kiosk"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9934844,
+          45.8037417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": 11755428581,
+        "tags": {
+          "addr:housenumber": "33",
+          "addr:street": "Petrinjska ulica",
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "check_date": "2024-04-16",
+          "contact:facebook": "https://www.facebook.com/iNovineHR",
+          "name": "iNovine",
+          "opening_hours": "Mo-Fr 07:00-13:00; Sa-Su off",
+          "ref": "846",
+          "shop": "kiosk"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9801596,
+          45.8100625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": 12252189055,
+        "tags": {
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "name": "iNovine",
+          "shop": "kiosk"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9468574,
+          45.7914296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": 12328870690,
+        "tags": {
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "name": "iNovine",
+          "shop": "kiosk"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9761704,
+          45.341131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": 12335895525,
+        "tags": {
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "name": "iNovine",
+          "shop": "kiosk"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0085103,
+          45.8232179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": 12703281926,
+        "tags": {
+          "addr:city": "Rijeka",
+          "addr:street": "Radnička ulica",
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "name": "iNovine",
+          "payment:cash": "yes",
+          "shop": "kiosk"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4731292,
+          45.3168433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": 12992030451,
+        "tags": {
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "name": "iNovine",
+          "shop": "kiosk"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.672187,
+          45.0618155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "way",
+        "id": 821403245,
+        "tags": {
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "building": "yes",
+          "name": "iNovine",
+          "shop": "kiosk"
+        },
+        "nodes": [
+          7669381211,
+          7669381212,
+          7669381213,
+          7669381214,
+          7669381211
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              15.9653862,
+              45.7723603
+            ],
+            [
+              15.9653861,
+              45.7723377
+            ],
+            [
+              15.9654423,
+              45.7723388
+            ],
+            [
+              15.9654425,
+              45.7723599
+            ],
+            [
+              15.9653862,
+              45.7723603
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "way",
+        "id": 875818618,
+        "tags": {
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "building:part": "yes",
+          "name": "iNovine",
+          "opening_hours": "Mo-Fr 07:00-21:30; Sa,Su,PH off",
+          "ref": "675",
+          "shop": "kiosk",
+          "wheelchair": "yes"
+        },
+        "nodes": [
+          8151728731,
+          8151728732,
+          8151728733,
+          6611739280,
+          8151728731
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              15.9790453,
+              45.8053352
+            ],
+            [
+              15.9790476,
+              45.8053173
+            ],
+            [
+              15.9791137,
+              45.8053214
+            ],
+            [
+              15.9791114,
+              45.8053393
+            ],
+            [
+              15.9790453,
+              45.8053352
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "way",
+        "id": 875819295,
+        "tags": {
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "building:part": "yes",
+          "name": "iNovine",
+          "shop": "kiosk"
+        },
+        "nodes": [
+          8151732132,
+          8151732133,
+          8151732134,
+          8151732135,
+          8151732132
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              15.9783984,
+              45.8051449
+            ],
+            [
+              15.9783969,
+              45.8051667
+            ],
+            [
+              15.9784628,
+              45.805169
+            ],
+            [
+              15.9784643,
+              45.8051472
+            ],
+            [
+              15.9783984,
+              45.8051449
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "way",
+        "id": 907865102,
+        "tags": {
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "building": "yes",
+          "name": "iNovine",
+          "shop": "kiosk"
+        },
+        "nodes": [
+          8429977728,
+          8429977725,
+          8429977726,
+          8429977727,
+          8429977728
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.0107236,
+              45.8021009
+            ],
+            [
+              16.0107862,
+              45.8021022
+            ],
+            [
+              16.0107873,
+              45.8020784
+            ],
+            [
+              16.0107246,
+              45.8020771
+            ],
+            [
+              16.0107236,
+              45.8021009
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "way",
+        "id": 995881617,
+        "tags": {
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "building": "yes",
+          "name": "iNovine",
+          "shop": "kiosk"
+        },
+        "nodes": [
+          9195822849,
+          9195822850,
+          9195822851,
+          9195822852,
+          9195822849
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              15.9460052,
+              45.7668437
+            ],
+            [
+              15.9460431,
+              45.7668419
+            ],
+            [
+              15.9460386,
+              45.7667946
+            ],
+            [
+              15.9460007,
+              45.7667963
+            ],
+            [
+              15.9460052,
+              45.7668437
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "way",
+        "id": 1083570295,
+        "tags": {
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "building": "kiosk",
+          "name": "iNovine",
+          "opening_hours": "Mo-Th 07:00-22:00; Sa 08:00-23:00; Su,PH 07:00-13:00",
+          "shop": "kiosk",
+          "wheelchair": "yes"
+        },
+        "nodes": [
+          9930013993,
+          9930013996,
+          9930013994,
+          9930013995,
+          9930013993
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              15.9772264,
+              45.8127986
+            ],
+            [
+              15.9772774,
+              45.8127924
+            ],
+            [
+              15.9772722,
+              45.8127718
+            ],
+            [
+              15.9772212,
+              45.812778
+            ],
+            [
+              15.9772264,
+              45.8127986
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "way",
+        "id": 1118765533,
+        "tags": {
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "building": "kiosk",
+          "name": "iNovine",
+          "shop": "kiosk"
+        },
+        "nodes": [
+          10231919694,
+          10231919693,
+          10231919692,
+          10231919691,
+          10231919694
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.3964266,
+              45.3655358
+            ],
+            [
+              14.3964371,
+              45.3655167
+            ],
+            [
+              14.3964792,
+              45.365528
+            ],
+            [
+              14.3964687,
+              45.3655472
+            ],
+            [
+              14.3964266,
+              45.3655358
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "way",
+        "id": 1122147245,
+        "tags": {
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "building": "yes",
+          "check_date": "2024-11-11",
+          "name": "iNovine",
+          "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-12:00",
+          "shop": "kiosk",
+          "wheelchair": "yes"
+        },
+        "nodes": [
+          10263348849,
+          10263348850,
+          10263348851,
+          10263348852,
+          10263348849
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              15.9525975,
+              45.7855442
+            ],
+            [
+              15.9526321,
+              45.785534
+            ],
+            [
+              15.9526141,
+              45.7855041
+            ],
+            [
+              15.9525795,
+              45.7855142
+            ],
+            [
+              15.9525975,
+              45.7855442
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "way",
+        "id": 1122147246,
+        "tags": {
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "building": "yes",
+          "name": "Demik Zagreb",
+          "shop": "kiosk"
+        },
+        "nodes": [
+          10263348853,
+          10263348854,
+          10263348855,
+          10263348856,
+          10263348853
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              15.9525626,
+              45.7855113
+            ],
+            [
+              15.9526104,
+              45.785497
+            ],
+            [
+              15.9525834,
+              45.7854532
+            ],
+            [
+              15.9525356,
+              45.7854675
+            ],
+            [
+              15.9525626,
+              45.7855113
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "way",
+        "id": 1132565938,
+        "tags": {
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "building": "yes",
+          "check_date": "2024-10-14",
+          "name": "iNovine",
+          "opening_hours": "Mo-Fr 06:00-20:00; Sa 08:00-15:00; Su off",
+          "ref": "708",
+          "shop": "kiosk",
+          "wheelchair": "yes"
+        },
+        "nodes": [
+          10560284362,
+          10560284363,
+          10560284364,
+          10560284365,
+          10560284362
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              15.9506822,
+              45.7860551
+            ],
+            [
+              15.9507388,
+              45.7860627
+            ],
+            [
+              15.9507336,
+              45.7860815
+            ],
+            [
+              15.950677,
+              45.7860739
+            ],
+            [
+              15.9506822,
+              45.7860551
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "way",
+        "id": 1191447451,
+        "tags": {
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "building": "yes",
+          "name": "iNovine",
+          "shop": "kiosk",
+          "wheelchair": "yes"
+        },
+        "nodes": [
+          11061933486,
+          11061933487,
+          11061933488,
+          11061933489,
+          11061933486
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              15.9706424,
+              45.7983511
+            ],
+            [
+              15.9706743,
+              45.7983522
+            ],
+            [
+              15.9706774,
+              45.7983115
+            ],
+            [
+              15.9706455,
+              45.7983103
+            ],
+            [
+              15.9706424,
+              45.7983511
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "way",
+        "id": 1264855107,
+        "tags": {
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "building": "yes",
+          "name": "iNovine",
+          "shop": "kiosk"
+        },
+        "nodes": [
+          11750775882,
+          11750775883,
+          11750775884,
+          11750775885,
+          11750775882
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              15.9617195,
+              45.7831238
+            ],
+            [
+              15.9617491,
+              45.7831195
+            ],
+            [
+              15.9617553,
+              45.7831405
+            ],
+            [
+              15.9617257,
+              45.7831448
+            ],
+            [
+              15.9617195,
+              45.7831238
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "way",
+        "id": 1376431656,
+        "tags": {
+          "brand": "iNovine",
+          "brand:wikidata": "Q115137198",
+          "building": "yes",
+          "name": "iNovine",
+          "shop": "kiosk"
+        },
+        "nodes": [
+          12744372021,
+          12744372022,
+          12744372023,
+          12744372024,
+          12744372021
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.4479042,
+              45.3249838
+            ],
+            [
+              14.4479055,
+              45.3249621
+            ],
+            [
+              14.4479524,
+              45.3249636
+            ],
+            [
+              14.4479511,
+              45.3249852
+            ],
+            [
+              14.4479042,
+              45.3249838
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

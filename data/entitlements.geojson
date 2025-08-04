@@ -29,6 +29,45 @@
           "65ce0e0977ee06798bd7d01757710093bda85d1ffee70ad621b30450a129fb9e"
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.422531,
+          45.343973
+        ]
+      },
+      "properties": {
+        "id": "network_wikidata-Q12627396",
+        "name": "Autotrolej bus",
+        "type": "public_transport",
+        "overpass_query": "https://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Barea%28id%3A3600214885%29-%3E.searchArea%3Bnwr%5B%22network%3Awikidata%22%3D%22Q12627396%22%5D%28area.searchArea%29%3Bout%20geom%3B",
+        "aquire_names": [],
+        "ticket_names": [
+          "Karta za poništavanje 1 zona",
+          "Karta za jedno poništavanje 2 zone",
+          "Karta za jedno poništavanja 3 zone",
+          "Karta za jedno poništavanja 4 zone",
+          "Karta za dva poništavanja 1 zona",
+          "Karta za dva poništavanja 2 zone",
+          "Karta za dva poništavanja 3 zone",
+          "Karta za dva poništavanja 4 zone",
+          "Tjedna karta 4 zone"
+        ],
+        "ticket_ids": [
+          "8d81d192a9510daa93775e4526c045abcf1b76dd012c0877940879592527c469",
+          "fd814b3cc9bb3a3a0fc33bc75ea290b08e073c26ed7a4227c91b47d3807a3a19",
+          "e0137f300e6fef699be999c73904b0ff0091296d77b96b4986cb8b890b5fed37",
+          "34b28e95c19166026c81bba47d12bb17dbb9e31209bcb803e575f9d4346f456b",
+          "1640c6c84486a80c2b142e63a02d652fe5dcd38b6244f1afa9a6b6fafb97ac2e",
+          "54d312aa6e2f8e9c5741bdce2b45230ede696b2dffd157423a02e317ba8ef63e",
+          "dc79925cdaecf7ef9acef40d4f43b6a5d9dbeddae7051138b7856eb896ad7a48",
+          "c0e2b50e9d2b13491ca0ef5261831fdaa78fcab834b43f7b9f35261ca8264e5e",
+          "f497e5f539f8dc38eb3e6d8ad7332a5329ba67dff171ee7b78fb2b100e72832f"
+        ]
+      }
     }
   ]
 }

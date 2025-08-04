@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": 12744374656,
+        "tags": {
+          "addr:city": "Rijeka",
+          "addr:housenumber": "bb",
+          "addr:postcode": "51000",
+          "addr:street": "Delta",
+          "name": "KD Autotrolej - prodajno mjesto Delta",
+          "operator:wikidata": "Q12627396",
+          "phone": "+385 060 151 151",
+          "shop": "ticket",
+          "website": "https://www.autotrolej.hr/"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4479747,
+          45.3249577
+        ]
+      }
+    }
+  ]
+}
